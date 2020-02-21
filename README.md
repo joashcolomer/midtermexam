@@ -1,7 +1,7 @@
 # WebDev2 Midterm Exam Answer Sheet by Joash Colomer
 This repository contains my answers to Part 1, 2, 3, and 4.
 
-##Part 1 - Multiple Choice
+## Part 1 - Multiple Choice
 1.b
 2.c
 3.a
@@ -13,7 +13,7 @@ This repository contains my answers to Part 1, 2, 3, and 4.
 9.c
 10.b
 
-##Part 2 - True or False
+## Part 2 - True or False
 
 1.true
 2.true
