@@ -1,4 +1,4 @@
-# WebDev2 Midterm Exam Answer Sheet by Clyde Balaman
+# WebDev2 Midterm Exam Answer Sheet by Joash Colomer
 This repository contains my answers to Part 1, 2, 3, and 4.
 
 ##Part 1 - Multiple Choice
